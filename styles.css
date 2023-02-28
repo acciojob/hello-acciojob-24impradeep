@@ -1,11 +1,11 @@
 
 /* Your CSS Code here. */
-.main{
+main{
 	background-color:black;
 		width:150px;
-	height:150px;
+	    height:150px;
 }
-.hello-accio{
+.hello-accio {
 	color:white;
 	margin-left:32px
 	padding:10px;
